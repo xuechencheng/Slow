@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 10 Blending\BlendDemo\x64\Debug\BlendDemo.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 10 Blending\BlendDemo\x64\Debug\BlendDemo.pdb

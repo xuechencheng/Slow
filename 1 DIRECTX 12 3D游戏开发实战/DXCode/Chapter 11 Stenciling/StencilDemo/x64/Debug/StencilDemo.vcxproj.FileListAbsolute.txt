@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 11 Stenciling\StencilDemo\x64\Debug\StencilDemo.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 11 Stenciling\StencilDemo\x64\Debug\StencilDemo.pdb

@@ -1,0 +1,15 @@
+﻿  d3dApp.cpp
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Common\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  d3dUtil.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  LitWavesApp.cpp
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Common\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  Waves.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1938 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  LitWaves.vcxproj -> D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 8 Lighting\LitWaves\x64\Release\LitWaves.exe

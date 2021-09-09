@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 9 Texturing\Crate\x64\Debug\Crate.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 9 Texturing\Crate\x64\Debug\Crate.pdb

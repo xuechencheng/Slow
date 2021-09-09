@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 13 The Compute Shader\VecAdd\x64\Debug\VecAdd.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 13 The Compute Shader\VecAdd\x64\Debug\VecAdd.pdb

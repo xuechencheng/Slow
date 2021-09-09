@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 12 The Geometry Shader\TreeBillboards\x64\Debug\TreeBillboards.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 12 The Geometry Shader\TreeBillboards\x64\Debug\TreeBillboards.pdb

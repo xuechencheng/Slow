@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 13 The Compute Shader\SobelFilter\x64\Debug\SobelFilter.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 13 The Compute Shader\SobelFilter\x64\Debug\SobelFilter.pdb

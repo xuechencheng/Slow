@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 7 Drawing in Direct3D Part II\Shapes\x64\Debug\Shapes.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 7 Drawing in Direct3D Part II\Shapes\x64\Debug\Shapes.pdb

@@ -1,0 +1,12 @@
+﻿  d3dApp.cpp
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Common\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  d3dUtil.cpp
+  DDSTextureLoader.cpp
+  GameTimer.cpp
+  GeometryGenerator.cpp
+  MathHelper.cpp
+  FrameResource.cpp
+  StencilApp.cpp
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Common\d3dApp.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  StencilDemo.vcxproj -> D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 11 Stenciling\StencilDemo\x64\Debug\StencilDemo.exe

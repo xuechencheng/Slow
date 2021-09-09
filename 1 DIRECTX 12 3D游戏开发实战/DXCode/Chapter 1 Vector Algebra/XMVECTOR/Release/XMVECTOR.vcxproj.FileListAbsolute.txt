@@ -1,0 +1,2 @@
+D:\MyGit\MyAll\DXCode\Chapter 1 Vector Algebra\XMVECTOR\Release\XMVECTOR.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 1 Vector Algebra\XMVECTOR\Release\XMVECTOR.exe

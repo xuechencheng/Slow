@@ -1,0 +1,2 @@
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 13 The Compute Shader\WavesCS\x64\Debug\WavesCS.exe
+D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 13 The Compute Shader\WavesCS\x64\Debug\WavesCS.pdb
