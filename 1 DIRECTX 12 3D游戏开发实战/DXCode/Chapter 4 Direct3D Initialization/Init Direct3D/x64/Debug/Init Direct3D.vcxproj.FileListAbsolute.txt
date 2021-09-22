@@ -1,2 +1,3 @@
 D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 4 Direct3D Initialization\Init Direct3D\x64\Debug\Init Direct3D.exe
 D:\Joker\DIRECTX 12 3D游戏开发实战\DXCode\Chapter 4 Direct3D Initialization\Init Direct3D\x64\Debug\Init Direct3D.pdb
+D:\Slow\1 DIRECTX 12 3D游戏开发实战\DXCode\Chapter 4 Direct3D Initialization\Init Direct3D\x64\Debug\Init Direct3D.exe
