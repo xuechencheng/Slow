@@ -1,0 +1,10 @@
+Variance Soft Shadow Mapping
+提升第三步的速度。
+把深度值的平均和方差记录下来。
+均值：
+	Hardware MIPMAPing
+	Summed Area Tables(SAT)
+Variance
+	Var(X) = E(X2) -E2(x)
+	把Depth的平方，存到另一个颜色通道
+	

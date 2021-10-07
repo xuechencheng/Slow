@@ -1,0 +1,5 @@
+Debug
+Nsight Graphics
+RenderDoc
+
+显示颜色，然后使用颜色捕捉器

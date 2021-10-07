@@ -1,0 +1,41 @@
+Shadow mapping
+2-Pass Algorithm
+	The light pass generate the ShadowMap
+	The camera pass uses the SM
+
+屏幕空间
+
+缺点：
+	自遮挡(阴影痤疮)
+	走样
+
+阴影痤疮
+	原因：在一个像素内部的深度是一个常数，因为从Light方向看过去的，所以像素是和Light方向垂直的。光线和平面垂直时，没有痤疮。越接近平行痤疮越大。
+	解决方法：很小的遮挡不算遮挡，这个差值可以根据光线与平面夹角改变。添加Bias。
+	添加了Bias造成的问题，阴影偏移。（detached shadow）
+	
+走样：
+	原因：ShadowMap分辨率有限。
+	方法：级联阴影等方法
+
+背后的数学
+
+Percentage closer soft shadows
+	产生软阴影
+	阴影和遮挡物的距离。
+	面光源尺寸，blokcer distance和Filter Size相关
+	
+	1，Blocker search
+		getting the average blokcer depth in a certain region
+	2，Penumbra estimation
+		use the average blokcer depth to determain filter size
+	3, Percentage Closer Filtering
+	
+	
+
+Percentage Close Filtering(PCF)
+	本来是用来抗锯齿的
+	后来法线可以用来软阴影
+	在ShadowMap中不是找某一个像素，而是找周围的7x7(nxn)个像素，然后比较每一个像素求出平均结果。
+	
+
